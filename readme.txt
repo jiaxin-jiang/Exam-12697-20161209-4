@@ -1,1 +1,1 @@
-直接运行目录：Exam-12697-20161209-4\src\main\java\Exam201612093 下的Work.java文件即可
+mvn exec:java -Dexec.mainClass="Exam_12697_20161209_4.Work4"
